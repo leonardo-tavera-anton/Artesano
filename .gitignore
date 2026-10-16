@@ -1,0 +1,13 @@
+# Compilaciones y binarios
+build/
+bin/
+*.exe
+*.obj
+*.o
+*.out
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.DS_Store
